@@ -1,0 +1,39 @@
+{
+	"id": "57d8fb26-e003-4bdb-8a53-663eb9c098b5",
+	"values": [
+		{
+			"key": "globalID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalUpdatedName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gAccessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Gorest Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-10-16T10:42:49.292Z",
+	"_postman_exported_using": "Postman/12.32.4-261016-0231"
+}
